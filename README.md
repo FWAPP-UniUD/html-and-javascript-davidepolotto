@@ -1,3 +1,2 @@
-Primo repository <br>
-Questo è il primo repository git creato da zero <br>
-Davide
+#Primo repository 
+Questo è il primo repository git creato da zero 
